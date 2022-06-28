@@ -8,9 +8,9 @@ If you are using a mobile device, we recommend that you install the most recent 
 
 To access the Gemini wallet on Windows, perform the following steps:
 
-•         <li>Navigate to the Gemini wallet browser extension</li>.
-•         <li>Now, enter the password information.</li>
-•         <li>Examine the information and click the 'Unlock' button</li>.
+•         <li>Navigate to the Gemini wallet browser extension.
+•         <li>Now, enter the password information.
+•         <li>Examine the information and click the 'Unlock' button.
 •         <li>Finally, you have gained access to the Gemini login account</li>.
 
 ## Gemini login on Desktop
