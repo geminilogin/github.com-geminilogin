@@ -8,10 +8,11 @@ If you are using a mobile device, we recommend that you install the most recent 
 
 To access the Gemini wallet on Windows, perform the following steps:
 
-•         <li>Navigate to the Gemini wallet browser extension.
-•         <li>Now, enter the password information.
-•         <li>Examine the information and click the 'Unlock' button.
-•         <li>Finally, you have gained access to the Gemini login account</li>.
+·         To access the Uphold wallet on Windows, perform the following steps:
+·         Navigate to the Uphold wallet browser extension.
+·         Now, enter the password information.
+·         Examine the information and click the 'Unlock' button.
+·         Finally, you have gained access to the Uphold login account.
 
 ## Gemini login on Desktop
 [Gemini login](https://geminilogin.github.io/Gemini/) exchange is now available for desktop devices. Whether you use a Windows or macOS desktop, you can simply access the Gemini login trading platform by signing in to your profile using your username and password. To access the Gemini login account on your desktop, use an updated version of the browser. 
