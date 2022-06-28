@@ -8,11 +8,10 @@ If you are using a mobile device, we recommend that you install the most recent 
 
 To access the Gemini wallet on Windows, perform the following steps:
 
-·         To access the Uphold wallet on Windows, perform the following steps:
-·         Navigate to the Uphold wallet browser extension.
-·         Now, enter the password information.
-·         Examine the information and click the 'Unlock' button.
-·         Finally, you have gained access to the Uphold login account.
+ <ul><li>Navigate to the Uphold wallet browser extension.</li>
+     <li>Now, enter the password information.</li>
+     <li>Examine the information and click the 'Unlock' button.</li>
+     <li>Finally, you have gained access to the Uphold login account.</ul></li>
 
 ## Gemini login on Desktop
 [Gemini login](https://geminilogin.github.io/Gemini/) exchange is now available for desktop devices. Whether you use a Windows or macOS desktop, you can simply access the Gemini login trading platform by signing in to your profile using your username and password. To access the Gemini login account on your desktop, use an updated version of the browser. 
@@ -21,18 +20,18 @@ To access the Gemini wallet on Windows, perform the following steps:
 
 ### Sign-Up & Referral Program for $20 Bitcoin
 
-•         <li>When you sign up using a referral link, you will receive a $20 Bitcoin start-up bonus</li>. 
-•         <li>Sign up using the referral [link](https://geminilogin.github.io/Gemini) provided below</li>.
-•         <li>Please confirm your account.</li>
-•         <li>Deposit funds by bank or credit card and trade at least $250 in any cryptocurrency.</li>
-•         <li>See the conditions of the offer here.</li>
-•         <li>Once you have an Gemini login account, you will see the gift box symbol in the app for making recommendations.</li>
-•         <li>Trading that is automated using repeated buy or sell orders to reduce the impact of price fluctuation.</li>
-•         <li>A debit card that accepts payments in cryptocurrency, gold, and other currencies. In addition, you will receive 1% cashback and 2% cryptocurrency incentives. </li>
-•         <li>Low currency rates on major currencies such as USD, EUR, and GBP.</li>
-•         <li>Worldwide transfers in every currency, from USD to Bitcoin, are instant and free.</li>
-•         <li>Employers can pay you in any currency or currency combination. For example, 70 percent in USD, 20% in EUR, and 10% in Bitcoin.</li>
-•        <li>Withdrawals to bank accounts in 36 countries and private wallets on seven crypto networks are instant and fee-free.</li></li>
-•        <li>Gemini is reserved, which means that, unlike typical banks, they do not lend out your savings to generate money.</li>
+    <ul><li>When you sign up using a referral link, you will receive a $20 Bitcoin start-up bonus</li>. 
+        <li>Sign up using the referral [link](https://geminilogin.github.io/Gemini) provided below</li>.
+        <li>Please confirm your account.</li>
+        <li>Deposit funds by bank or credit card and trade at least $250 in any cryptocurrency.</li>
+        <li>See the conditions of the offer here.</li>
+        <li>Once you have an Gemini login account, you will see the gift box symbol in the app for making recommendations.</li>
+        <li>Trading that is automated using repeated buy or sell orders to reduce the impact of price fluctuation.</li>
+        <li>A debit card that accepts payments in cryptocurrency, gold, and other currencies. In addition, you will receive 1% cashback and 2% cryptocurrency incentives.</li>
+         <li>Low currency rates on major currencies such as USD, EUR, and GBP.</li>
+         <li>Worldwide transfers in every currency, from USD to Bitcoin, are instant and free.</li>
+         <li>Employers can pay you in any currency or currency combination. For example, 70 percent in USD, 20% in EUR, and 10% in Bitcoin.</li>
+        <li>Withdrawals to bank accounts in 36 countries and private wallets on seven crypto networks are instant and fee-free.</li></li>
+       <li>Gemini is reserved, which means that, unlike typical banks, they do not lend out your savings to generate money.</ul></li>
 
 
