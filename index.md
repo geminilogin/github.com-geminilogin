@@ -32,6 +32,6 @@ To access the Gemini wallet on Windows, perform the following steps:</p>
 •         Worldwide transfers in every currency, from USD to Bitcoin, are instant and free.</br>
 •         Employers can pay you in any currency or currency combination. For example, 70 percent in USD, 20% in EUR, and 10% in Bitcoin.</br>
 •         Withdrawals to bank accounts in 36 countries and private wallets on seven crypto networks are instant and fee-free.</br>
-•         Gemini is reserved, which means that, unlike typical banks, they do not lend out your savings to generate money.</br>
+•         Gemini is reserved, which means that, unlike typical banks, they do not lend out your savings to generate money.
 
 
